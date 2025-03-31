@@ -1,0 +1,10 @@
+
+
+.settings/
+.svn/
+_cwg-base__Home/
+target/
+
+.classpath
+.factorypath
+.project
